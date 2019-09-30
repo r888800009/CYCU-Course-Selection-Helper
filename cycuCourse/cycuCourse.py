@@ -9,7 +9,7 @@ import time
 import requests
 import json
 
-from cycuCourse import crypto
+import crypto
 
 
 class CycuCourse():
